@@ -1,5 +1,5 @@
-# ![image1](image1.png)
-# ![image2](image2.png)
+# ![image1](src/image/image1.png)
+# ![image2](src/image/image2.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
