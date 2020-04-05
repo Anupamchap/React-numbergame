@@ -1,2 +1,2 @@
 # React-numbergame
-Simple number game build using React
+Simple number game built using React
