@@ -1,5 +1,5 @@
-# ![image1](image1.PNG)
-# ![image2](image2.PNG)
+# ![](sample_number.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
