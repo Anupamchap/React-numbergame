@@ -32,8 +32,6 @@ class App extends Component {
   }
 
 
-
-
   handleClick = (event) => {
     if (this.state.count == 1) {
       this.timerref.current.onFirst();
